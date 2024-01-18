@@ -1,4 +1,4 @@
-# This is Employee management project
+# This is a Employee management project
 
 <br><br>
 <b>Description</b> :
